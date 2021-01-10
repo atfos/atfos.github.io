@@ -6,7 +6,7 @@ Apple Storesta saatavilla oleva Kitsas on kirjanpitosovellus, joka on käännett
 
 Alkuperäinen Linux- ja Windows-ympäristöille kehitetty lähdekoodi on saatavilla täältä: [Kitsas](https://github.com/artoh/kitupiikki). Alkuperäinen kehittäjä Kitsas Oy ei tarjoa mitään tukea macOS-versiolle.
 
-Atfos Oy:n kehittämän macOS-version [lähdekoodi](https://github.com/petriaarnio/kitupiikki) on toiminnallisuudeltaan identtinen alkuperäisen kanssa. Lisäyksenä on macOS-käännösympäristö. Alkuperäiseen versioon tulevat muutokset siirretään macOS-versioon vaihtelevalla viiveellä, yleensä viikon sisällä.
+Atfos Oy:n kehittämän macOS-version [lähdekoodi](https://github.com/petriaarnio/kitupiikki) toteuttaa samat toiminnallisuudet ja on täysin yhteensopiva alkuperäisen Kitsas-ohjelmiston kanssa. Alkuperäiseen versioon tulevat muutokset siirretään macOS-versioon vaihtelevalla viiveellä, yleensä viikon sisällä.
 
 ## Takuu
 
